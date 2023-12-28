@@ -1,0 +1,17 @@
+{
+    "name": "RPR Helper",
+    "version": "1.0.0",
+    "description": "RPR Helper Description",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "dotenv": "^10.0.0",
+      "discord.js": "^13.1.0"
+    },
+    "engines": {
+      "node": ">=16.6.0"
+    }
+  }
+  
